@@ -9,7 +9,7 @@ public class ArrayQueueADT {
         return array.add(n);
     }
 
-    public Integer element(ArrayList<Integer> array) //Первый
+    public Integer element(ArrayList<Integer> array) //Первый элемент
     {
         return array.get(0);
     }
